@@ -78,19 +78,32 @@ endmodule
 
 code:
 
-![Screenshot 2023-12-25 140815](https://github.com/Roopsagar23001830/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145972515/b4344542-761c-4b63-802d-b8b646a416b3)
+module basicgates (a,b,y1,y2,y3,y4,y5,y6,y7);
+input a,b;
+output y1,y2,y3,y4,y5,y6,y7;
+and (y1,a,b);
+or (y2,a,b);
+not (y3,a);
+xor (y4,a,b);
+nand (y5,a,b);
+nor (y6,a,b);
+xnor (y7,a,b);
+endmodule
 
 Truthtable : 
+![Screenshot 2023-12-29 194537](https://github.com/Drcatassistant/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144364462/f3b88f1e-5e28-457c-a3ff-2a16c9a81b9d)
 
-![265178152-92db09b6-b8ce-4fd4-84ab-30c497d397c0](https://github.com/Roopsagar23001830/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145972515/782d679a-f566-4cd5-9759-1e563a407e46)
+
 
 RTL realization : 
 
-![Screenshot 2023-12-25 125829](https://github.com/Roopsagar23001830/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145972515/5fffd000-1d6c-4809-812f-bc1db7cf5581)
+![Screenshot 2023-12-29 194354](https://github.com/Drcatassistant/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144364462/eaeb701a-f315-4215-af1a-8b16da74a28a)
+
 
 Output:
 
-![Screenshot 2023-12-25 122627](https://github.com/Roopsagar23001830/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145972515/e2e04ae2-8ea8-44d0-9286-35dde3534486)
+![Screenshot 2023-12-29 194317](https://github.com/Drcatassistant/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144364462/7b6688d7-2641-442f-8f8b-24bb828b5889)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
