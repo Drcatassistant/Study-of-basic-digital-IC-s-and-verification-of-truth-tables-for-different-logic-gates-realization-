@@ -90,6 +90,7 @@ xnor (y7,a,b);
 endmodule
 
 Truthtable : 
+
 ![Screenshot 2023-12-29 194537](https://github.com/Drcatassistant/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144364462/f3b88f1e-5e28-457c-a3ff-2a16c9a81b9d)
 
 
