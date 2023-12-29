@@ -1,5 +1,11 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+**1.Implementation of logic gates using verilog HDL**
+
+Developed by : Jackson Raj
+
+RegisterNumber : 212223040071
+
+AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
 Equipments Required:
@@ -58,8 +64,6 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 
-Developed by : Jackson Raj
-RegisterNumber : 212223040071
 
 Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
