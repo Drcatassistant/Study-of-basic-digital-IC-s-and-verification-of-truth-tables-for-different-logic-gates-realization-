@@ -1,4 +1,4 @@
-# 1.Implementation of logic gates using verilog HDL
+# 1. Implementation of logic gates using verilog HDL
 
 Developed by : Jackson Raj
 
