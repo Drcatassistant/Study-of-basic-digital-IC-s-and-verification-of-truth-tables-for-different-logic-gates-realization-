@@ -1,5 +1,4 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
-**1.Implementation of logic gates using verilog HDL**
+# 1.Implementation of logic gates using verilog HDL
 
 Developed by : Jackson Raj
 
